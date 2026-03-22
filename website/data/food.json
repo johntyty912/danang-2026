@@ -1,0 +1,97 @@
+[
+  {
+    "id": "banh-xeo-ba-duong",
+    "name": "Bánh Xèo Bà Dưỡng",
+    "chineseName": "煎餅婆娘",
+    "category": "街頭小食",
+    "mustEat": true,
+    "day": "第一天",
+    "address": "K280/23 Hoàng Diệu, Đà Nẵng",
+    "hours": "09:00–21:00",
+    "priceRange": "60,000–80,000 VND (~$3)",
+    "details": "峴港最著名的越南煎餅 (bánh xèo) 專賣店。外皮酥脆，搭配新鮮蔬菜和烤豬肉串 (nem lụi)。是峴港必吃的在地美食。",
+    "icon": "🥞"
+  },
+  {
+    "id": "be-anh-seafood",
+    "name": "Bé Anh Seafood",
+    "chineseName": "小英海鮮",
+    "category": "海鮮",
+    "mustEat": true,
+    "day": "第二天",
+    "address": "Bé Anh Seafood, Đà Nẵng",
+    "hours": "10:00–22:00",
+    "priceRange": "200,000–400,000 VND ($8–16)",
+    "details": "共享桌式海鮮餐廳，自選新鮮海鮮秤重計費。氣氛熱鬧，獨旅者也很友善。常見選擇：烤扇貝、炒蛤蜊、烤蝦。",
+    "icon": "🦐"
+  },
+  {
+    "id": "cao-lau-hoi-an",
+    "name": "Cao Lầu",
+    "chineseName": "高樓麵",
+    "category": "麵食",
+    "mustEat": true,
+    "day": "第三天 (會安)",
+    "address": "Chợ Hội An, Hội An",
+    "priceRange": "30,000–50,000 VND (~$2)",
+    "details": "會安獨有的厚切麵條料理，搭配叉燒肉片、脆麵、新鮮蔬菜和醬汁。傳統上只用會安井水製麵，全越南只有會安才有正宗口味。在中央市場攤位享用最在地。",
+    "icon": "🍜"
+  },
+  {
+    "id": "banh-mi-hoi-an",
+    "name": "Bánh Mì Phượng",
+    "chineseName": "鳳凰越南法包",
+    "category": "麵包",
+    "mustEat": true,
+    "day": "第三天 (會安)",
+    "address": "2B Phan Châu Trinh, Hội An",
+    "hours": "06:30–21:30",
+    "priceRange": "25,000–35,000 VND (~$1.5)",
+    "details": "被《安東尼·波登：沒有訂位》節目介紹的傳奇法包店。會安法包公認越南最好吃——外皮脆、內料豐富，有豬肉、肝醬、蔬菜等多種選擇。",
+    "icon": "🥖",
+    "notes": "人氣極高，可能需要等候。值得！"
+  },
+  {
+    "id": "son-tra-night-market",
+    "name": "Chợ Đêm Sơn Trà",
+    "chineseName": "山茶夜市",
+    "category": "夜市",
+    "day": "第一天",
+    "address": "Son Tra Night Market, Đà Nẵng",
+    "hours": "18:00–23:00",
+    "priceRange": "50,000–150,000 VND",
+    "details": "峴港著名夜市，主打烤海鮮攤位。烤魷魚、烤蝦、烤扇貝都很推薦。還有各種小食和飲料。適合第一天到達後宵夜閒逛。",
+    "icon": "🦑"
+  },
+  {
+    "id": "mi-quang",
+    "name": "Mì Quảng",
+    "chineseName": "廣南麵",
+    "category": "麵食",
+    "mustEat": true,
+    "address": "Đà Nẵng",
+    "priceRange": "40,000–60,000 VND (~$2.5)",
+    "details": "廣南省的代表性料理，也是峴港的在地美食。寬扁黃麵配薑黃湯底，加豬肉、蝦、花生、脆麵、新鮮香草。湯汁不多，拌著吃。任何一家在地小麵店都可嚐到。",
+    "icon": "🍜"
+  },
+  {
+    "id": "banh-trang-tron",
+    "name": "Bánh Tráng Trộn",
+    "chineseName": "越南米紙沙拉",
+    "category": "街頭小食",
+    "address": "Đà Nẵng",
+    "priceRange": "15,000–25,000 VND (~$1)",
+    "details": "超受學生和年輕人歡迎的街頭小食。脆米紙條拌上青芒果絲、蝦乾、花生、辣椒、越南香草，口感豐富有趣。在夜市攤位或路邊攤找。",
+    "icon": "🌮"
+  },
+  {
+    "id": "ca-phe-trung",
+    "name": "Cà Phê Trứng",
+    "chineseName": "雞蛋咖啡",
+    "category": "咖啡",
+    "address": "Đà Nẵng",
+    "priceRange": "30,000–50,000 VND (~$2)",
+    "details": "越南獨特的「蛋咖啡」，以蛋黃、煉乳、咖啡打成綿密泡沫覆蓋在濃縮咖啡上，口感像提拉米蘇。是越南咖啡文化的代表之一。峴港各咖啡館都有供應。",
+    "icon": "☕"
+  }
+]
