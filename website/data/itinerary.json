@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-25",
+    "day": "第一天",
+    "weekday": "星期三",
+    "title": "抵達 & 海灘初探",
+    "items": [
+      {
+        "time": "下午",
+        "activity": "抵達峴港國際機場 (DAD)",
+        "details": "搭 Grab 至酒店，約 80,000–120,000 VND ($3–5)。建議在機場購買 Viettel 或 Mobifone SIM 卡，約 100,000 VND。",
+        "icon": "✈️"
+      },
+      {
+        "time": "下午",
+        "activity": "入住 Seashore Hotel & Apartment",
+        "details": "放下行李，換上輕便衣物準備探索。",
+        "icon": "🏨"
+      },
+      {
+        "time": "傍晚",
+        "activity": "美溪海灘 (Mỹ Khê Beach)",
+        "details": "峴港最著名的城市海灘。三月天氣 25–29°C，非常適合游泳或沿海濱步道漫步。",
+        "icon": "🏖️",
+        "address": "Mỹ Khê Beach, Đà Nẵng"
+      },
+      {
+        "time": "晚餐",
+        "activity": "Bánh Xèo Bà Dưỡng",
+        "details": "峴港最著名的越南煎餅 (bánh xèo) 與烤豬肉串 (nem lụi)。預算約 60,000–80,000 VND。",
+        "icon": "🥞",
+        "address": "K280/23 Hoàng Diệu, Đà Nẵng",
+        "mustTry": true
+      },
+      {
+        "time": "晚上",
+        "activity": "韓江河畔 & 龍橋 (Dragon Bridge)",
+        "details": "沿韓江散步前往龍橋。週末晚上 9 點龍橋會噴火噴水，平日也有漂亮燈光。河畔很熱鬧。",
+        "icon": "🐉",
+        "address": "Dragon Bridge, Đà Nẵng"
+      },
+      {
+        "time": "宵夜",
+        "activity": "山茶夜市 (Son Tra Night Market)",
+        "details": "如果還餓，可去山茶夜市嚐烤海鮮和烤魷魚。",
+        "icon": "🦑",
+        "address": "Son Tra Night Market, Đà Nẵng"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-03-26",
+    "day": "第二天",
+    "weekday": "星期四",
+    "title": "巴拿山 & 金橋",
+    "items": [
+      {
+        "time": "07:00",
+        "activity": "早起出發巴拿山 (Bà Nà Hills)",
+        "details": "盡早出發避開人群。搭 Grab 前往約 250,000–300,000 VND ($10–12)，或請酒店安排接送，車程約 45 分鐘。",
+        "icon": "🚗",
+        "warning": "建議提早出發，人多時纜車排隊很長"
+      },
+      {
+        "time": "08:00",
+        "activity": "巴拿山門票購買",
+        "details": "成人票約 750,000 VND (~$30)，包含纜車及所有園區設施。**強烈建議提前在 booking.sunworld.vn 購票**以免排隊。",
+        "icon": "🎟️",
+        "mustTry": true
+      },
+      {
+        "time": "08:30",
+        "activity": "金橋 (Golden Bridge / Cầu Vàng)",
+        "details": "被巨型石手托起的金色玻璃橋，是越南最著名的打卡景點。早到人少，拍照不用擠。",
+        "icon": "🌉",
+        "address": "Bà Nà Hills, Đà Nẵng",
+        "mustTry": true
+      },
+      {
+        "time": "上午",
+        "activity": "法國村 (French Village)",
+        "details": "歐式風格小鎮建築，在山頂涼爽空氣中漫步，喝杯咖啡。山頂氣溫比山下低很多，建議帶薄外套。",
+        "icon": "🏰",
+        "address": "French Village, Bà Nà Hills"
+      },
+      {
+        "time": "上午",
+        "activity": "夢幻樂園 (Fantasy Park)",
+        "details": "包含在門票內的室內遊樂園，有各種遊樂設施。",
+        "icon": "🎢"
+      },
+      {
+        "time": "午餐",
+        "activity": "巴拿山園區餐廳",
+        "details": "園區內自助餐廳約 200,000–300,000 VND，或在各攤位選輕食。",
+        "icon": "🍽️"
+      },
+      {
+        "time": "15:00",
+        "activity": "返回峴港，入住 Mercure Da Nang",
+        "details": "下午返回市區，辦理入住 Mercure Da Nang。",
+        "icon": "🏨",
+        "address": "Mercure Da Nang, 36 Bạch Đằng, Đà Nẵng"
+      },
+      {
+        "time": "晚餐",
+        "activity": "Bé Anh Seafood (小英海鮮)",
+        "details": "共享桌式海鮮餐廳，自選新鮮海鮮。獨旅友善、氣氛熱鬧。預算約 200,000–400,000 VND。",
+        "icon": "🦐",
+        "address": "Bé Anh Seafood, Đà Nẵng",
+        "mustTry": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-03-27",
+    "day": "第三天",
+    "weekday": "星期五",
+    "title": "會安古城日遊",
+    "items": [
+      {
+        "time": "08:30",
+        "activity": "前往會安 (Hội An)",
+        "details": "搭 Grab 約 200,000–250,000 VND（30–40 分鐘），或搭 Hoi An Express 穿梭巴士約 100,000 VND。",
+        "icon": "🚌"
+      },
+      {
+        "time": "09:00",
+        "activity": "購買古城門票",
+        "details": "120,000 VND，可參觀 5 個文化遺址，包含日本橋、福建會館、陳家祠堂等。",
+        "icon": "🎟️"
+      },
+      {
+        "time": "上午",
+        "activity": "探索古城 (Old Town)",
+        "details": "漫步 UNESCO 世界遺產古城黃牆小巷。必看：福建會館、近義老舖 (Tan Ky Old House)、日本橋。",
+        "icon": "🏮",
+        "address": "Hội An Ancient Town, Quảng Nam",
+        "mustTry": true
+      },
+      {
+        "time": "午餐",
+        "activity": "中央市場 (Central Market)",
+        "details": "在市場攤位品嚐會安名物：高樓麵 (cao lầu) 和越南法包 (bánh mì)。會安的 bánh mì 被公認為越南最好吃。",
+        "icon": "🥖",
+        "address": "Chợ Hội An, Hội An",
+        "mustTry": true
+      },
+      {
+        "time": "下午",
+        "activity": "可選：竹籃船 (Basket Boat Ride)",
+        "details": "在金鑾椰林水道 (Cam Thanh) 乘坐竹籃船，體驗越南漁村文化，約 200,000–300,000 VND。",
+        "icon": "🛶",
+        "address": "Cam Thanh Coconut Village, Hội An"
+      },
+      {
+        "time": "傍晚",
+        "activity": "燈籠夜景 & 秋盆河",
+        "details": "天黑後留下——點燈後的會安最美。沿秋盆河 (Thu Bồn River) 漫步，在水面放燈籠（約 20,000 VND）。",
+        "icon": "🏮",
+        "mustTry": true
+      },
+      {
+        "time": "夜晚",
+        "activity": "會安夜市",
+        "details": "逛夜市，買紀念品、客製化衣服（會安裁縫聞名），嚐街頭小食。",
+        "icon": "🌙",
+        "address": "Hội An Night Market"
+      },
+      {
+        "time": "晚上",
+        "activity": "返回峴港",
+        "details": "搭 Grab 或穿梭巴士返回峴港 Mercure，車程約 30–40 分鐘。",
+        "icon": "🚗"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-03-28",
+    "day": "第四天",
+    "weekday": "星期六",
+    "title": "大理石山 & 啟程",
+    "items": [
+      {
+        "time": "07:00",
+        "activity": "退房 Mercure Da Nang",
+        "details": "整理行李，辦理退房，行李可寄存在前台。",
+        "icon": "🧳"
+      },
+      {
+        "time": "07:30",
+        "activity": "大理石山 (Marble Mountains / Ngũ Hành Sơn)",
+        "details": "市區南方約 8 公里，Grab 約 50,000 VND。入場 40,000 VND + 電梯 15,000 VND（建議搭電梯上、走樓梯下）。從 2 號門入場較方便。",
+        "icon": "⛰️",
+        "address": "Ngũ Hành Sơn, Đà Nẵng",
+        "mustTry": true
+      },
+      {
+        "time": "上午",
+        "activity": "玄空洞 (Huyền Không Cave)",
+        "details": "大理石山內最壯觀的洞穴，天光穿過崩塌的洞頂照入，拍照絕美。預留 1.5–2 小時遊覽，穿舒適鞋、帶水。",
+        "icon": "🕌",
+        "address": "Huyền Không Cave, Marble Mountains, Đà Nẵng",
+        "mustTry": true
+      },
+      {
+        "time": "10:00",
+        "activity": "前往峴港國際機場",
+        "details": "機場距市區大多景點 15–20 分鐘車程。預留充裕時間。",
+        "icon": "✈️",
+        "address": "Da Nang International Airport (DAD)"
+      }
+    ]
+  }
+]
