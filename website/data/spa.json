@@ -1,0 +1,40 @@
+[
+  {
+    "id": "palmarosa-spa",
+    "name": "Palmarosa Spa",
+    "services": ["越式按摩", "精油按摩", "臉部護理", "身體磨砂"],
+    "priceRange": "$15–35 USD",
+    "duration": "60–90 分鐘",
+    "address": "64 Nguyễn Thị Minh Khai, Đà Nẵng",
+    "bookingNote": "建議提前預約，尤其週末人多",
+    "backup": "Herbal Spa Da Nang"
+  },
+  {
+    "id": "herbal-spa",
+    "name": "Herbal Spa Da Nang",
+    "services": ["越式按摩", "草本熱敷", "足底按摩", "精油按摩"],
+    "priceRange": "$12–28 USD",
+    "duration": "60–120 分鐘",
+    "address": "15 Hoàng Diệu, Đà Nẵng",
+    "bookingNote": "接受現場預約，環境整潔舒適"
+  },
+  {
+    "id": "white-lotus-spa",
+    "name": "White Lotus Spa",
+    "services": ["越式傳統按摩", "四手按摩", "熱石按摩", "芳療"],
+    "priceRange": "$20–50 USD",
+    "duration": "60–120 分鐘",
+    "address": "White Lotus Spa, Đà Nẵng",
+    "bookingNote": "環境優雅，適合放鬆型體驗",
+    "backup": "Palmarosa Spa"
+  },
+  {
+    "id": "my-khe-beach-massage",
+    "name": "美溪海灘按摩 (Mỹ Khê Beach Massage)",
+    "services": ["背部按摩", "全身按摩", "足底按摩"],
+    "priceRange": "100,000–200,000 VND ($4–8)",
+    "duration": "30–60 分鐘",
+    "address": "Mỹ Khê Beach, Đà Nẵng",
+    "bookingNote": "海灘沿線有多家店，價格實惠，現場即可，無需預約。適合海灘活動後放鬆。"
+  }
+]
