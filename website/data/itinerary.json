@@ -122,13 +122,13 @@
     "title": "會安古城日遊",
     "items": [
       {
-        "time": "08:30",
-        "activity": "前往會安 (Hội An)",
-        "details": "搭 Grab 約 200,000–250,000 VND（30–40 分鐘），或搭 Hoi An Express 穿梭巴士約 100,000 VND。",
+        "time": "07:00",
+        "activity": "從巴拿山出發前往會安 (Hội An)",
+        "details": "07:00 於 Mercure Ba Na Hills 退房，搭纜車下山（約 30 分鐘），再搭 Grab 前往會安（約 1 小時）。預計 09:00–09:30 抵達。",
         "icon": "🚌"
       },
       {
-        "time": "09:00",
+        "time": "09:30",
         "activity": "購買古城門票",
         "details": "120,000 VND，可參觀 5 個文化遺址，包含日本橋、福建會館、陳家祠堂等。",
         "icon": "🎟️"
@@ -187,30 +187,31 @@
     "items": [
       {
         "time": "07:00",
-        "activity": "退房 Mercure Da Nang",
+        "activity": "退房 Seashore Hotel & Apartment",
         "details": "整理行李，辦理退房，行李可寄存在前台。",
         "icon": "🧳"
       },
       {
-        "time": "07:30",
+        "time": "07:15",
         "activity": "大理石山 (Marble Mountains / Ngũ Hành Sơn)",
-        "details": "市區南方約 8 公里，Grab 約 50,000 VND。入場 40,000 VND + 電梯 15,000 VND（建議搭電梯上、走樓梯下）。從 2 號門入場較方便。",
+        "details": "從 Seashore Hotel 出發，Grab 約 15 分鐘、50,000 VND。入場 40,000 VND + 電梯 15,000 VND（建議搭電梯上、走樓梯下）。從 2 號門入場較方便。",
         "icon": "⛰️",
         "address": "Ngũ Hành Sơn, Đà Nẵng",
         "mustTry": true
       },
       {
-        "time": "上午",
+        "time": "07:30",
         "activity": "玄空洞 (Huyền Không Cave)",
-        "details": "大理石山內最壯觀的洞穴，天光穿過崩塌的洞頂照入，拍照絕美。預留 1.5–2 小時遊覽，穿舒適鞋、帶水。",
+        "details": "大理石山內最壯觀的洞穴，天光穿過崩塌的洞頂照入，拍照絕美。預留約 1.5 小時遊覽，穿舒適鞋、帶水。",
+        "warning": "09:00 前必須離開，以確保趕上 10:45 班機",
         "icon": "🕌",
         "address": "Huyền Không Cave, Marble Mountains, Đà Nẵng",
         "mustTry": true
       },
       {
-        "time": "10:00",
+        "time": "09:00",
         "activity": "前往峴港國際機場",
-        "details": "機場距市區大多景點 15–20 分鐘車程。預留充裕時間。",
+        "details": "09:00 從大理石山出發，約 15 分鐘抵達機場，距 10:45 起飛有 90 分鐘緩衝。",
         "icon": "✈️",
         "address": "Da Nang International Airport (DAD)"
       }

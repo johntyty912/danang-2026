@@ -25,7 +25,7 @@ export default function RootLayout({
               峴港之旅 2026年3月25日 - 3月28日
             </p>
             <p className="text-sm opacity-80">
-              住宿：Seashore Hotel &amp; Apartment (3/25) · Mercure Da Nang (3/26–27) 🏨
+              住宿：Seashore Hotel &amp; Apartment (3/25, 3/27) · Mercure Ba Na Hills (3/26) 🏨
             </p>
           </div>
         </footer>

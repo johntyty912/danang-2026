@@ -9,8 +9,8 @@
 | Day | Theme | Accommodation |
 |-----|-------|---------------|
 | Wed, Mar 25 | Arrival → Beaches & Local Food | Seashore Hotel & Apartment |
-| Thu, Mar 26 | Ba Na Hills (full day) | Mercure Da Nang (confirmed) |
-| Fri, Mar 27 | Hoi An Day Trip | Mercure Da Nang (confirmed) |
+| Thu, Mar 26 | Ba Na Hills (full day) | Mercure Ba Na Hills French Village (confirmed) |
+| Fri, Mar 27 | Hoi An Day Trip | Seashore Hotel & Apartment |
 | Sat, Mar 28 | Marble Mountains → Departure | — |
 
 ---
@@ -53,7 +53,7 @@
 ## Day 3 — Friday, March 27: Hoi An Ancient Town
 
 ### Morning: Head to Hoi An
-- Grab a taxi (~30–40 minutes, around 200,000–250,000 VND) or book a shuttle via **Hoi An Express** (~100,000 VND). Depart around 8:30–9:00 AM.
+- **Depart 7:00 AM** from Mercure Ba Na Hills — check out, take the cable car down (~30 minutes), then grab a Grab taxi to Hoi An (~1 hour from the base). You'll arrive around 9:00–9:30 AM.
 - Pick up an **Old Town ticket** (120,000 VND) which gives you entry to 5 heritage sites including the Japanese Covered Bridge, assembly halls, and old merchant houses.
 
 ### Daytime: Explore the Ancient Town
@@ -70,15 +70,15 @@
 
 ## Day 4 — Saturday, March 28: Marble Mountains & Departure
 
-### Morning: Marble Mountains (7:00–9:30 AM)
-- Check out of the Mercure and head to **Marble Mountains** (Ngũ Hành Sơn), about 8 km south of the city center. Grab ride is ~50,000 VND.
+### Morning: Marble Mountains (7:15–9:00 AM)
+- Check out of Seashore Hotel & Apartment and head to **Marble Mountains** (Ngũ Hành Sơn), about 15 minutes by Grab (~50,000 VND).
 - **Entrance:** 40,000 VND + 15,000 VND for the elevator (recommended going up, then take the stairs down).
 - Enter via **Gate 2** — easier climb and closer to the elevator.
 - Must-see: **Huyền Không Cave** — a massive cavern with shafts of sunlight piercing through the collapsed ceiling. Stunning for photos.
-- Allow about 1.5–2 hours. Wear comfortable shoes and bring water.
+- Allow 1.5 hours. **Leave by 9:00 AM sharp** — your flight departs at 10:45.
 
-### Late Morning: Departure
-- Head to the airport with plenty of buffer. Da Nang airport is conveniently close to everything — most rides take 15–20 minutes.
+### Departure (9:00 AM)
+- Head straight to the airport from Marble Mountains (~15 minutes). Arriving by 9:15 gives you 90 minutes before the 10:45 departure — enough buffer for check-in and security.
 
 ---
 
