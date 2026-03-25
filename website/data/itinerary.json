@@ -57,21 +57,20 @@
     "title": "巴拿山 & 金橋",
     "items": [
       {
-        "time": "07:00",
-        "activity": "早起出發巴拿山 (Bà Nà Hills)",
-        "details": "盡早出發避開人群。搭 Grab 前往約 250,000–300,000 VND ($10–12)，或請酒店安排接送，車程約 45 分鐘。",
-        "icon": "🚗",
-        "warning": "建議提早出發，人多時纜車排隊很長"
+        "time": "10:00",
+        "activity": "出發前往巴拿山 (Bà Nà Hills)",
+        "details": "從 Seashore Hotel 出發，搭 Grab 約 45–50 分鐘、250,000–300,000 VND。約 10:50 抵達山腳，再搭纜車上山（約 20 分鐘）。",
+        "icon": "🚗"
       },
       {
-        "time": "08:00",
-        "activity": "巴拿山門票購買",
-        "details": "成人票約 750,000 VND (~$30)，包含纜車及所有園區設施。強烈建議提前在 booking.sunworld.vn 購票以免排隊。",
+        "time": "11:30",
+        "activity": "抵達 & 門票 / 入住 Mercure Ba Na Hills",
+        "details": "成人票約 750,000 VND (~$30)，包含纜車及所有園區設施。強烈建議提前在 booking.sunworld.vn 購票以免排隊。先辦理入住放下行李，再開始遊覽。",
         "icon": "🎟️",
         "mustTry": true
       },
       {
-        "time": "08:30",
+        "time": "中午",
         "activity": "金橋 (Golden Bridge / Cầu Vàng)",
         "details": "被巨型石手托起的金色玻璃橋，是越南最著名的打卡景點。早到人少，拍照不用擠。",
         "icon": "🌉",
@@ -79,14 +78,14 @@
         "mustTry": true
       },
       {
-        "time": "上午",
+        "time": "下午",
         "activity": "法國村 (French Village)",
         "details": "歐式風格小鎮建築，在山頂涼爽空氣中漫步，喝杯咖啡。山頂氣溫比山下低很多，建議帶薄外套。",
         "icon": "🏰",
         "address": "French Village, Bà Nà Hills"
       },
       {
-        "time": "上午",
+        "time": "下午",
         "activity": "夢幻樂園 (Fantasy Park)",
         "details": "包含在門票內的室內遊樂園，有各種遊樂設施。",
         "icon": "🎢"
@@ -98,19 +97,16 @@
         "icon": "🍽️"
       },
       {
-        "time": "15:00",
-        "activity": "返回峴港，入住 Mercure Da Nang",
-        "details": "下午返回市區，辦理入住 Mercure Da Nang。",
-        "icon": "🏨",
-        "address": "Mercure Da Nang, 36 Bạch Đằng, Đà Nẵng"
+        "time": "傍晚",
+        "activity": "傍晚漫步 & 入夜賞景",
+        "details": "日間遊客散去後，園區更安靜。趁傍晚再逛金橋、法國村，感受不同氣氛。住客專屬優勢：可以看到遊客看不到的夜景。",
+        "icon": "🌙"
       },
       {
         "time": "晚餐",
-        "activity": "Bé Anh Seafood (小英海鮮)",
-        "details": "共享桌式海鮮餐廳，自選新鮮海鮮。獨旅友善、氣氛熱鬧。預算約 200,000–400,000 VND。",
-        "icon": "🦐",
-        "address": "Bé Anh Seafood, Đà Nẵng",
-        "mustTry": true
+        "activity": "Mercure Ba Na Hills 園區餐廳",
+        "details": "在山上酒店餐廳用晚餐，享受涼爽山頂氣候。園區內有多家餐廳可選擇。",
+        "icon": "🍽️"
       }
     ]
   },

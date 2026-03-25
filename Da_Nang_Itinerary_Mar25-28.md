@@ -34,19 +34,19 @@
 
 ## Day 2 — Thursday, March 26: Ba Na Hills & Golden Bridge
 
-### Morning: Early Start
-- **Depart by 7:00 AM** from your hotel to beat the crowds. Book a Grab car (~250,000–300,000 VND / $10–12 one-way) or arrange a return shuttle through your hotel. The drive takes about 45 minutes.
+### Morning: Relaxed Start
+- No early alarm — depart around **10:00 AM** from Seashore Hotel. Book a Grab car (~250,000–300,000 VND / $10–12 one-way). The drive takes about 45–50 minutes to the cable car base.
+- Cable car up takes ~20 minutes. You'll arrive at the resort around **11:30 AM**.
 - **Tickets:** ~750,000 VND (~$30) for adults, which includes the cable car and all park attractions. Buy online at [booking.sunworld.vn](https://booking.sunworld.vn/) to skip the queue.
+- Check into **Mercure Ba Na Hills French Village** and drop your bags first.
 
-### At the Park (8 AM – 3 PM)
-- **Golden Bridge** — The iconic giant stone hands. Arrive early for photos without the tour group crowds.
-- **French Village** — Wander the European-style streets, grab a coffee, and enjoy the cooler mountain air (it's noticeably cooler up top, bring a light layer).
+### Afternoon & Evening: Explore at Your Own Pace
+- **Golden Bridge** — The iconic giant stone hands holding the golden walkway. Midday crowds are manageable and you have all afternoon.
+- **French Village** — Wander the European-style streets, grab a coffee, enjoy the cooler mountain air (bring a light layer — it's noticeably cooler up top).
 - **Fantasy Park** — Indoor amusement park with rides and games, included in your ticket.
-- **Lunch** — The on-site buffet restaurants are decent but pricey (~200,000–300,000 VND). Alternatively, grab lighter bites at the food stalls throughout the park.
-
-### Evening: Check In & Relax
-- Head back to Da Nang and check into the **Mercure**.
-- For dinner, try **Bé Anh Seafood** — a communal-table spot where you pick your own fresh seafood. Solo-friendly and lively. Budget around 200,000–400,000 VND depending on what you order.
+- **Lunch** — On-site buffet restaurants (~200,000–300,000 VND) or lighter bites at food stalls.
+- **Evening advantage** — As day-trippers leave, the park gets quieter. Wander the Golden Bridge and French Village again at dusk for a completely different atmosphere.
+- **Dinner** at one of the resort restaurants — enjoy the cool mountain night air.
 
 ---
 
