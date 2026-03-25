@@ -59,8 +59,9 @@
       {
         "time": "10:00",
         "activity": "出發前往巴拿山 (Bà Nà Hills)",
-        "details": "從 Seashore Hotel 出發，搭 Grab 約 45–50 分鐘、250,000–300,000 VND。約 10:50 抵達山腳，再搭纜車上山（約 20 分鐘）。",
-        "icon": "🚗"
+        "details": "從 Seashore Hotel 出發，約 10:50 抵達山腳纜車站，再搭纜車上山（約 20 分鐘）。交通建議：Grab 長途可能難召，建議提前安排——可請 Seashore Hotel 前台幫你叫私家車（約 300,000–400,000 VND），或致電 Mercure Ba Na Hills (+84 2363 799 888) 詢問酒店接駁服務。",
+        "icon": "🚗",
+        "warning": "建議今晚提前安排好交通，勿臨出門才召 Grab"
       },
       {
         "time": "11:30",
