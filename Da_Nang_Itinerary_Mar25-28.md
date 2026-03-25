@@ -53,7 +53,9 @@
 ## Day 3 — Friday, March 27: Hoi An Ancient Town
 
 ### Morning: Head to Hoi An
-- **Depart 7:00 AM** from Mercure Ba Na Hills — check out, take the cable car down (~30 minutes), then grab a Grab taxi to Hoi An (~1 hour from the base). You'll arrive around 9:00–9:30 AM.
+- Sleep in — no early alarm needed. Have a relaxed breakfast, then check out around 9:30 AM.
+- Take the cable car down (~20 minutes, first ride at 8:00 AM). Aim to board around 10:00 AM.
+- Get a Grab or pre-arranged hotel transfer to Hoi An (~1 hour from the base). You'll arrive around 11:30 AM. **Tip:** Ask the hotel the night before to arrange a car from the base station — Grab can be scarce there at that hour.
 - Pick up an **Old Town ticket** (120,000 VND) which gives you entry to 5 heritage sites including the Japanese Covered Bridge, assembly halls, and old merchant houses.
 
 ### Daytime: Explore the Ancient Town
